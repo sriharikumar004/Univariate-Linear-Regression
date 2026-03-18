@@ -32,8 +32,9 @@ Y_pred = m*X + c
 print (Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="red")
-plt.show()```
+plt.show()
+```
 ## Output
-<img width="654" height="927" alt="image" src="https://github.com/user-attachments/assets/2c7a3859-dd72-47ab-bca3-009db1fcfb41" />
+<img width="654" height="927" alt="image" src="https://github.com/user-attachments/assets/0cfca932-55be-4457-afce-76237c393c36" />
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
